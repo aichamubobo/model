@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://aichamubobo.netlify.app/index.html</loc>
+    <loc>https://aichamubobo.github.io/model/index.html</loc>
   </url>
   <url>
-    <loc>https://aichamubobo.netlify.app/#hero</loc>
+    <loc>https://aichamubobo.github.io/model/#hero</loc>
   </url>
   <url>
-    <loc>https://aichamubobo.netlify.app/#about</loc>
+    <loc>https://aichamubobo.github.io/model/#about</loc>
   </url>
   <url>
-    <loc>https://aichamubobo.netlify.app/#services</loc>
+    <loc>https://aichamubobo.github.io/model/#services</loc>
   </url>
   <url>
-    <loc>https://aichamubobo.netlify.app/#work</loc>
+    <loc>https://aichamubobo.github.io/model/#work</loc>
   </url>
   <url>
-    <loc>https://aichamubobo.netlify.app/#contact</loc>
+    <loc>https://aichamubobo.github.io/model/#contact</loc>
   </url>
 
 </urlset>

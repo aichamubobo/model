@@ -1,4 +1,4 @@
-Sitemap: https://aichamubobo.netlify.app/sitemap.xml
+Sitemap: https://aichamubobo.github.io/model//sitemap.xml
 
 # Geral
 User-agent: *
